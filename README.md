@@ -1,6 +1,7 @@
 # Final-Project-Python---Shaikh-Abdul-Wahab
 Project Based on Supply chain and logistics analysis
 📦 Supply Chain Demand Analytics & Vendor Benchmarking
+
 📌 Project Overview
 
 This project focuses on Demand Analytics, Supply Chain Optimization, and Vendor Cost Benchmarking using a structured supply chain dataset containing SKU-level sales, logistics, supplier, and manufacturing data.
@@ -147,12 +148,19 @@ Price Sensitivity = Correlation (Price vs Demand)
 Reorder Point = Avg Demand × Lead Time
 
 📂 Project Structure
+
 📦 Supply-Chain-Demand-Analytics
+
  ┣ 📜 data.csv
+ 
  ┣ 📓 demand_analysis.ipynb
+ 
  ┣ 📓 vendor_benchmarking.ipynb
+ 
  ┣ 📊 visualizations/
+ 
  ┗ 📄 README.md
+
 🚀 Future Improvements
 
 Add time-series forecasting (ARIMA / Prophet)
@@ -170,14 +178,25 @@ Integrate real-time data pipeline
 This project demonstrates:
 
 ✔ End-to-end data analysis
+
 ✔ Business KPI development
+
 ✔ Supply chain analytics understanding
+
 ✔ Vendor benchmarking skills
+
 ✔ Demand forecasting knowledge
+
 ✔ Practical Python implementation
 
 👨‍💻 Author
 
 Shaikh Abdul Wahab
+
 Aspiring Data Analyst
-Focused on Demand Analytics | Supply Chain Analytics | Business Intelligence
+
+Focused on Demand Analytics |
+
+Supply Chain Analytics 
+
+| Business Intelligence
